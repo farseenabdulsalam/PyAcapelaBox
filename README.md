@@ -19,7 +19,7 @@ optional arguments:
 ```
 
 # License
-  > Wrote by farzeen on May 19 of 2016 to ease off the heat of JEE Advance exam ;-)
+  > Written by farzeen on May 19 of 2016 to take a breather from his JEE Advanced exam ;-)
 
   * This script is written for educational purposes.
   * You are free to do whatever with this script
