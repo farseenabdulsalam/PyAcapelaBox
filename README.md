@@ -2,7 +2,7 @@
 Unofficial http://acapela-box.com interface.
 
 # How to use it?
-```bash
+```
 usage: acapela_tts.py [-h] [--print-url] [--quiet] text [text ...]
 
 Convert a text to high quality realistic human speech using acapela-box.com
